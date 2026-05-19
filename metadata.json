@@ -1,0 +1,5 @@
+{
+  "name": "Archivision AI",
+  "description": "Architectural image analyzer that generates structured JSON prompts for design and visualization workflows.",
+  "requestFramePermissions": []
+}
